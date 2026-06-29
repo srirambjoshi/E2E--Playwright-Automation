@@ -195,4 +195,4 @@ This framework is integrated with Jenkins for automated pipeline execution:
 
 **Sriram B Joshi**  
 QA Automation Engineer | Playwright  · API Testing · BDD  
-[LinkedIn](https://linkedin.com/in/) | [Email]joshisriram@outlook.com
+[LinkedIn](www.linkedin.com/in/srirambjoshi) | [Email]joshisriram@outlook.com
