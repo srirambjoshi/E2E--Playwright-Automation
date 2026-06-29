@@ -6,7 +6,7 @@ test('ClientApp Login', async ({ page }) => {
     const productName = "ZARA COAT 3";
     const loginUrl = "https://rahulshettyacademy.com/client/#/auth/login";
     const email = "sriram.b.joshi@gmail.com";
-    const password = "Adishankara123#";
+    const password = "Adishank456@";
     const products = page.locator(".card-body");
 
 
