@@ -6,7 +6,7 @@ test.beforeAll(async ({ browser }) => {
     const page = await context.newPage();
     await page.goto("https://rahulshettyacademy.com/client/#/auth/login");
     await page.getByPlaceholder("email@example.com").fill("sriram.b.joshi@gmail.com");
-    await page.getByPlaceholder("enter your passsword").fill("Adishankara123#");
+    await page.getByPlaceholder("enter your passsword").fill("Adishank456@");
     await page.getByRole("button", { name: "Login" }).click();
     await page.waitForLoadState('networkidle');
     await context.storageState({ path: 'state.json' });
