@@ -10,7 +10,7 @@ A production-ready end-to-end test automation framework built with **Playwright*
 |------|---------|
 | [Playwright](https://playwright.dev/) | Core test automation framework |
 | Node.js (CommonJS) | Runtime & module system |
-| Cucumber + Gherkin | BDD / behaviour-driven testing |
+| Cucumber + Gherkin (Added layer) | BDD / behaviour-driven testing |
 | Page Object Model | Maintainable UI abstraction layer |
 | Allure Reports | Rich HTML test reporting |
 | Jenkins | CI/CD pipeline execution |
