@@ -1,0 +1,33 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+
+--------------------------------------
+# Reports
+allure-results/
+allure-report/
+playwright-report/
+test-results/
+
+# Snapshots
+tests/MoreValidations.spec.js-snapshots/
+
+# Session state
+state.json
+
+# Sensitive files
+utils/test-base.js
+utils/PlaceOrderTestData.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
