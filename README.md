@@ -1,4 +1,4 @@
-# 🎭 ECommerce E2E Automation
+# 🎭 ECommerce E2E Automation -Playwright
 
 A production-ready end-to-end test automation framework built with **Playwright** and **Node.js**, covering UI automation, API testing, BDD with Cucumber, Page Object Model, network interception, and CI/CD integration with Jenkins.
 
